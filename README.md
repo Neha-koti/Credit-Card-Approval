@@ -62,8 +62,5 @@ It is a jupyter file which contains python code for EDA, Data cleaning, Data Tra
 ### 3. Credit card Approval.pdf 
 It is a pdf file which contains complete documentation about the project.
 
- ### 4.credit_card.sql:
-It is a sql file which contains few sql queries and we can cross check these results with powerbi results.
 
- ### 5.credit_card_dashboard.pbix:
-It is a powerBI file which contains dynamic dashboards of the above dataset.
+
