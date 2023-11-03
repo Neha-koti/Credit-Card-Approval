@@ -56,7 +56,7 @@ Files Description:
  ### 1. credit_card.csv,credit_card_label.csv: 
 These are csv files which contains 1549 bank customer records. It is out dataset. This Dataset was provided by odin School, Hyderabad,India.
 
-### 2. credit_card_Approval_Prediction.ipynb :
+### 2. credit_card.ipynb :
 It is a jupyter file which contains python code for EDA, Data cleaning, Data Transformation and ML model generation code.
 
 ### 3. Credit card Approval.pdf 
